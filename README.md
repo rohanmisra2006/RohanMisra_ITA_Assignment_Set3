@@ -1,3 +1,9 @@
+Rohan Misra 
+IPM06134
+SEC - B
+Set 3
+
+
 Air Quality Data Analysis: Anomaly Detection, Classification, and Model Robustness
 Project Overview
 This notebook performs a comprehensive analysis of air quality data, focusing on detecting anomalies, categorizing pollution levels, training supervised classification models, and investigating the impact of anomalies on model robustness. The analysis is conducted on two distinct datasets: a synthetic dataset to illustrate the methodology and a real-world dataset (AQI_daily_2024_Manoharpur_Agra_UPPCB_2024.xlsx) to apply the learned techniques.
